@@ -1,0 +1,4 @@
+import math
+a=float(input("Enter the number to find log of : "))
+b=math.log(a)
+print("The log of",a,"is",b)
